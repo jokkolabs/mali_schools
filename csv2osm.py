@@ -54,8 +54,8 @@ def getNode(entry, lnum):
     has_girl_latrines = entry.get('LATRINES_FILLES_SEPAREES') == '1'
     nb_latrines = int(entry.get('NOMBRE_LATRINES')) \
         if entry.get('NOMBRE_LATRINES') else 0
-    nb_teachers = int(entry.get('NBRE ENSEIGNANTS')) \
-        if entry.get('NBRE ENSEIGNANTS') else None
+    # nb_teachers = int(entry.get('NBRE ENSEIGNANTS')) \
+    #     if entry.get('NBRE ENSEIGNANTS') else None
 
     statuses = {
         "Communautaire": "community",
@@ -92,20 +92,20 @@ def getNode(entry, lnum):
         'school:ML:academie': entry.get('AE'),
         'school:ML:cap': entry.get('CAP'),
 
-        'school:fondamental_first_cycle': yesno(cycle == 1),
-        'school:fondamental_second_cycle': yesno(cycle == 2),
+        'school:first_cycle': yesno(cycle == 1),
+        'school:second_cycle': yesno(cycle == 2),
 
         # Students
-        'school:nb_schoolboys_2012': int(entry.get('GARCONS')),
-        'school:nb_schoolgirls_2012': int(entry.get('FILLES')),
-        'school:nb_pupils_2012': int(entry.get('TOTAL')),
+        # 'school:nb_schoolboys_2012': int(entry.get('GARCONS')),
+        # 'school:nb_schoolgirls_2012': int(entry.get('FILLES')),
+        # 'school:nb_pupils_2012': int(entry.get('TOTAL')),
 
-        'school:has_drinkable_water': yesno(has_drinkable_water),
+        'drinking_water': yesno(has_drinkable_water),
 
-        'school:has_restaurant':
+        'restaurant':
             yesno(entry.get('PRESENCE_RESTAURANT') == '1'),
-        'school:has_latrines': yesno(has_latrines),
-        'school:nb_latrines': nb_latrines,
+        'toilets': yesno(has_latrines),
+        'toilets:number': nb_latrines,
     }
     # admin levels of Mali
     if entry.get('Région'):
@@ -118,18 +118,18 @@ def getNode(entry, lnum):
         tags.update({'is_in:village': clean(entry.get('Localites'))})
 
     # School code
-    if entry.get('CODE_ETABLISSEMENT'):
-        tags.update({'school:ML:code': entry.get('CODE_ETABLISSEMENT')})
+    # if entry.get('CODE_ETABLISSEMENT'):
+    #     tags.update({'school:ML:code': entry.get('CODE_ETABLISSEMENT')})
 
-    if has_latrines:
-        tags.update({'school:has_separated_girls_latrines':
-                     yesno(has_girl_latrines)})
+    # if has_latrines:
+    #     tags.update({'school:has_separated_girls_latrines':
+    #                  yesno(has_girl_latrines)})
 
     if has_drinkable_water:
-        tags.update({'school:water_point_type': water_point})
+        tags.update({'drinking_water:type': water_point})
 
-    if nb_teachers is not None:
-        tags.update({'school:nb_teachers_2012': nb_teachers})
+    # if nb_teachers is not None:
+    #     tags.update({'school:nb_teachers_2012': nb_teachers})
 
     data = {
         'tags': getTags(**tags),
