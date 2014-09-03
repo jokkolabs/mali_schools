@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ "x${OSM_PASSWD}" = "x" ];
+if [ "x$OSM_UPLOAD" = "xy" -a "x${OSM_PASSWD}" = "x"];
 	then
 	echo "You need to set variable OSM_PASSWD."
 	exit 1
