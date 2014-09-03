@@ -7,18 +7,19 @@
 from __future__ import (unicode_literals, absolute_import,
                         division, print_function)
 import sys
+import os
 import datetime
 
 import unicodecsv as csv
 
 xml_head = ('<?xml version="1.0" encoding="UTF-8"?>\n'
-            '<osm version="0.6" generator="Custom">\n'
-            '<bounds minlat="54.0889580" minlon="12.2487570" '
-            'maxlat="54.0913900" maxlon="12.2524800"/>\n')
+            '<osm version="0.6" generator="csv2osm.py">\n'
+            '<bounds minlat="{minlat}" minlon="{minlon}" '
+            'maxlat="{maxlat}" maxlon="{maxlon}"/>\n')
 
 xml_tail = '</osm>\n'
 
-node_tmpl = '<node id="{id}" version="1" changeset="12370172" ' \
+node_tmpl = '<node id="{id}" version="1" changeset="{id}" ' \
             'lat="{lat}" lon="{lon}" user="Open Data Mali" ' \
             'uid="2306601" visible="true" timestamp="{timestamp}">\n' \
             '{tags}\n' \
@@ -85,6 +86,7 @@ def getNode(entry, lnum):
         'amenity': 'school',
         'name': clean(entry.get('NOM_ETABLISSEMENT')),
         'operator_type': statuses.get(entry.get('STATUT')),
+        'is_in:country': "Mali",
 
         # school classification
         'school:ML:academie': entry.get('AE'),
@@ -140,6 +142,22 @@ def getNode(entry, lnum):
     return node_tmpl.format(**data)
 
 
+def getBounds(nodes):
+    minlat = minlon = maxlat = maxlon = None
+    for node, node_latlon in nodes:
+        lat, lon = node_latlon
+        if lat > maxlat or maxlat is None:
+            maxlat = lat
+        if lat < minlat or minlat is None:
+            minlat = lat
+        if lon > maxlon or maxlon is None:
+            maxlon = lon
+        if lon < minlon or minlon is None:
+            minlon = lon
+
+    return minlat, minlon, maxlat, maxlon
+
+
 def main(filename):
     headers = ['Région', 'AE', 'CAP', 'Cercle', 'Commune',
                'NOM_ETABLISSEMENT', 'Localites', 'X', 'Y',
@@ -148,14 +166,32 @@ def main(filename):
                'LATRINES_FILLES_SEPAREES', 'NOMBRE_LATRINES',
                'EAU_POTABLE', 'GARCONS', 'FILLES', 'TOTAL',
                'NBRE ENSEIGNANTS']
+    folder = 'changesets'
     input_csv_file = open(filename, 'r')
     csv_reader = csv.DictReader(input_csv_file, fieldnames=headers)
-    output_osm_file = open('MLI_schools.osm', 'w')
 
-    output_osm_file.write(xml_head)
+    # create changeset folder if exist
+    try:
+        os.mkdir(folder)
+    except:
+        pass
+
+    def write_file(academy, nodes):
+        print("Writting ACADEMIE {}/{}".format(academy, len(nodes)))
+        minlat, minlon, maxlat, maxlon = getBounds(nodes)
+        output_osm_file = open(os.path.join(folder,
+                                            '{}.osm'.format(academy)), 'w')
+        output_osm_file.write(xml_head.format(
+            minlat=minlat, minlon=minlon, maxlat=maxlat, maxlon=maxlon))
+        for node, node_latlon in nodes:
+            output_osm_file.write(node.encode('utf-8'))
+            output_osm_file.write('\n')
+        output_osm_file.write(xml_tail)
+        output_osm_file.close()
+
+    academies = {}
 
     for entry in csv_reader:
-
         if csv_reader.line_num == 1:
             continue
 
@@ -163,16 +199,20 @@ def main(filename):
         if not entry.get('X') or not entry.get('Y'):
             continue
 
+        ac = clean(entry.get('AE')).replace(' ', '-')
+        if ac not in academies.keys():
+            academies[ac] = []
+
         print(entry.get('NOM_ETABLISSEMENT'))
 
         school_node = getNode(entry, csv_reader.line_num)
-        output_osm_file.write(school_node.encode('utf-8'))
-        output_osm_file.write('\n')
+        school_latlon = (float(entry.get('Y')), float(entry.get('X')))
+        academies[ac].append((school_node, school_latlon))
 
-    output_osm_file.write(xml_tail)
-
-    output_osm_file.close()
     input_csv_file.close()
+
+    for ac, nodes in academies.items():
+        write_file(ac, nodes)
 
     print("Export complete.")
 
