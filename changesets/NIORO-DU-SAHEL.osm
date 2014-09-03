@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="csv2osm.py">
 <bounds minlat="14.2039" minlon="-10.53935" maxlat="15.68498333" maxlon="-8.20781667"/>
-<node id="-2433" version="1" changeset="-2433" lat="15.22458333" lon="-9.28540000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2433" version="1" changeset="-2433" lat="15.22458333" lon="-9.2854" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -25,7 +25,7 @@
 <tag k="is_in:commune" v="DIABIGUE"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-2446" version="1" changeset="-2446" lat="14.71165000" lon="-10.09718333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2446" version="1" changeset="-2446" lat="14.71165" lon="-10.09718333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -50,7 +50,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2453" version="1" changeset="-2453" lat="15.16291667" lon="-9.55078333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2453" version="1" changeset="-2453" lat="15.16291667" lon="-9.55078333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -74,7 +74,7 @@
 <tag k="is_in:commune" v="COMMUNE DE NIORO"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2454" version="1" changeset="-2454" lat="15.31610000" lon="-9.31918333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2454" version="1" changeset="-2454" lat="15.3161" lon="-9.31918333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="111"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -97,7 +97,7 @@
 <tag k="school:nb_schoolboys_2012" v="68"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2481" version="1" changeset="-2481" lat="14.44283333" lon="-9.39630000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2481" version="1" changeset="-2481" lat="14.44283333" lon="-9.3963" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -122,7 +122,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2500" version="1" changeset="-2500" lat="14.56951667" lon="-8.76601667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2500" version="1" changeset="-2500" lat="14.56951667" lon="-8.76601667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -146,7 +146,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2507" version="1" changeset="-2507" lat="15.31168333" lon="-9.19668333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2507" version="1" changeset="-2507" lat="15.31168333" lon="-9.19668333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -170,7 +170,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2532" version="1" changeset="-2532" lat="15.19778333" lon="-8.93921667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2532" version="1" changeset="-2532" lat="15.19778333" lon="-8.93921667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="75"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -193,7 +193,7 @@
 <tag k="school:nb_schoolboys_2012" v="44"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2533" version="1" changeset="-2533" lat="15.20770000" lon="-9.15201667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2533" version="1" changeset="-2533" lat="15.2077" lon="-9.15201667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -218,7 +218,7 @@
 <tag k="is_in:commune" v="BANIERE-KORE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2537" version="1" changeset="-2537" lat="15.44260000" lon="-9.27496667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2537" version="1" changeset="-2537" lat="15.4426" lon="-9.27496667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="no"/>
@@ -242,7 +242,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2553" version="1" changeset="-2553" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2553" version="1" changeset="-2553" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="8"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -266,7 +266,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2554" version="1" changeset="-2554" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2554" version="1" changeset="-2554" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -290,7 +290,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2555" version="1" changeset="-2555" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2555" version="1" changeset="-2555" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -314,7 +314,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-2560" version="1" changeset="-2560" lat="15.04171667" lon="-9.35240000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2560" version="1" changeset="-2560" lat="15.04171667" lon="-9.3524" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -339,7 +339,7 @@
 <tag k="is_in:commune" v="BEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2561" version="1" changeset="-2561" lat="15.04171667" lon="-9.35240000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2561" version="1" changeset="-2561" lat="15.04171667" lon="-9.3524" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -364,7 +364,7 @@
 <tag k="is_in:commune" v="BEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2562" version="1" changeset="-2562" lat="15.04171667" lon="-9.35240000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2562" version="1" changeset="-2562" lat="15.04171667" lon="-9.3524" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="27"/>
 <tag k="school:fondamental_second_cycle" v="yes"/>
@@ -387,7 +387,7 @@
 <tag k="school:nb_schoolboys_2012" v="23"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2578" version="1" changeset="-2578" lat="14.53190000" lon="-9.37543333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2578" version="1" changeset="-2578" lat="14.5319" lon="-9.37543333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="203"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -410,7 +410,7 @@
 <tag k="school:nb_schoolboys_2012" v="131"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2586" version="1" changeset="-2586" lat="15.45760000" lon="-8.93185000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2586" version="1" changeset="-2586" lat="15.4576" lon="-8.93185" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -434,7 +434,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2588" version="1" changeset="-2588" lat="15.06983333" lon="-9.91366667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2588" version="1" changeset="-2588" lat="15.06983333" lon="-9.91366667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -458,7 +458,7 @@
 <tag k="is_in:commune" v="GAVINANE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2613" version="1" changeset="-2613" lat="15.20881667" lon="-9.46153333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2613" version="1" changeset="-2613" lat="15.20881667" lon="-9.46153333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="47"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -481,7 +481,7 @@
 <tag k="school:nb_schoolboys_2012" v="17"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2615" version="1" changeset="-2615" lat="15.56526667" lon="-9.34845000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2615" version="1" changeset="-2615" lat="15.56526667" lon="-9.34845" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -506,7 +506,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2629" version="1" changeset="-2629" lat="14.61925000" lon="-8.94060000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2629" version="1" changeset="-2629" lat="14.61925" lon="-8.9406" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -531,7 +531,7 @@
 <tag k="is_in:commune" v="DIANGUIRDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2648" version="1" changeset="-2648" lat="15.17696667" lon="-9.98363333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2648" version="1" changeset="-2648" lat="15.17696667" lon="-9.98363333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -555,7 +555,7 @@
 <tag k="is_in:commune" v="DIAYE COURA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-2651" version="1" changeset="-2651" lat="14.51148333" lon="-9.72406667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2651" version="1" changeset="-2651" lat="14.51148333" lon="-9.72406667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="115"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -578,7 +578,7 @@
 <tag k="school:nb_schoolboys_2012" v="63"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2663" version="1" changeset="-2663" lat="14.59953333" lon="-9.60246667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2663" version="1" changeset="-2663" lat="14.59953333" lon="-9.60246667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -603,7 +603,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-2695" version="1" changeset="-2695" lat="15.35910000" lon="-9.78468333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2695" version="1" changeset="-2695" lat="15.3591" lon="-9.78468333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="74"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -626,7 +626,7 @@
 <tag k="school:nb_schoolboys_2012" v="39"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2696" version="1" changeset="-2696" lat="14.58025000" lon="-9.36948333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2696" version="1" changeset="-2696" lat="14.58025" lon="-9.36948333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -650,7 +650,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2697" version="1" changeset="-2697" lat="14.58615000" lon="-9.37233333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2697" version="1" changeset="-2697" lat="14.58615" lon="-9.37233333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -674,7 +674,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2698" version="1" changeset="-2698" lat="14.58615000" lon="-9.37233333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2698" version="1" changeset="-2698" lat="14.58615" lon="-9.37233333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -698,7 +698,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2699" version="1" changeset="-2699" lat="14.68560000" lon="-10.20928333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2699" version="1" changeset="-2699" lat="14.6856" lon="-10.20928333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="no"/>
@@ -722,7 +722,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2705" version="1" changeset="-2705" lat="15.04578333" lon="-9.01686667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2705" version="1" changeset="-2705" lat="15.04578333" lon="-9.01686667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="no"/>
@@ -746,7 +746,7 @@
 <tag k="is_in:commune" v="KORERA-KORE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2709" version="1" changeset="-2709" lat="14.68560000" lon="-10.20928333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2709" version="1" changeset="-2709" lat="14.6856" lon="-10.20928333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -770,7 +770,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2710" version="1" changeset="-2710" lat="14.68560000" lon="-10.20928333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2710" version="1" changeset="-2710" lat="14.6856" lon="-10.20928333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="256"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -793,7 +793,7 @@
 <tag k="school:nb_schoolboys_2012" v="161"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2711" version="1" changeset="-2711" lat="14.75473333" lon="-9.50801667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2711" version="1" changeset="-2711" lat="14.75473333" lon="-9.50801667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -818,7 +818,7 @@
 <tag k="is_in:commune" v="SIMBI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2712" version="1" changeset="-2712" lat="15.15443333" lon="-9.31996667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2712" version="1" changeset="-2712" lat="15.15443333" lon="-9.31996667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -843,7 +843,7 @@
 <tag k="is_in:commune" v="DIABIGUE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2713" version="1" changeset="-2713" lat="14.35573333" lon="-9.39715000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2713" version="1" changeset="-2713" lat="14.35573333" lon="-9.39715" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="163"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -866,7 +866,7 @@
 <tag k="school:nb_schoolboys_2012" v="83"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2749" version="1" changeset="-2749" lat="14.74741667" lon="-10.16760000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2749" version="1" changeset="-2749" lat="14.74741667" lon="-10.1676" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="234"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -889,7 +889,7 @@
 <tag k="school:nb_schoolboys_2012" v="155"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2754" version="1" changeset="-2754" lat="15.25753333" lon="-9.54411667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2754" version="1" changeset="-2754" lat="15.25753333" lon="-9.54411667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -913,7 +913,7 @@
 <tag k="is_in:commune" v="COMMUNE DE NIORO"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2755" version="1" changeset="-2755" lat="15.39900000" lon="-9.37248333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2755" version="1" changeset="-2755" lat="15.399" lon="-9.37248333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -938,7 +938,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2757" version="1" changeset="-2757" lat="14.54578333" lon="-9.51346667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2757" version="1" changeset="-2757" lat="14.54578333" lon="-9.51346667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -963,7 +963,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2758" version="1" changeset="-2758" lat="14.54578333" lon="-9.51346667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2758" version="1" changeset="-2758" lat="14.54578333" lon="-9.51346667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -988,7 +988,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2759" version="1" changeset="-2759" lat="14.54578333" lon="-9.51346667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2759" version="1" changeset="-2759" lat="14.54578333" lon="-9.51346667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="no"/>
@@ -1012,7 +1012,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-2760" version="1" changeset="-2760" lat="14.49261667" lon="-9.01513333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2760" version="1" changeset="-2760" lat="14.49261667" lon="-9.01513333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1036,7 +1036,7 @@
 <tag k="is_in:commune" v="DIANGUIRDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2761" version="1" changeset="-2761" lat="14.49261667" lon="-9.01513333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:29Z">
+<node id="-2761" version="1" changeset="-2761" lat="14.49261667" lon="-9.01513333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1060,7 +1060,7 @@
 <tag k="is_in:commune" v="DIANGUIRDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2765" version="1" changeset="-2765" lat="15.31610000" lon="-9.31918333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2765" version="1" changeset="-2765" lat="15.3161" lon="-9.31918333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1084,7 +1084,7 @@
 <tag k="is_in:commune" v="DIARRA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2766" version="1" changeset="-2766" lat="14.62208333" lon="-9.73006667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2766" version="1" changeset="-2766" lat="14.62208333" lon="-9.73006667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="115"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -1107,7 +1107,7 @@
 <tag k="school:nb_schoolboys_2012" v="66"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2771" version="1" changeset="-2771" lat="15.17696667" lon="-9.98363333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2771" version="1" changeset="-2771" lat="15.17696667" lon="-9.98363333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="9"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1131,7 +1131,7 @@
 <tag k="is_in:commune" v="DIAYE COURA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-2772" version="1" changeset="-2772" lat="15.14768333" lon="-9.94993333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2772" version="1" changeset="-2772" lat="15.14768333" lon="-9.94993333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="no"/>
@@ -1155,7 +1155,7 @@
 <tag k="is_in:commune" v="DIAYE COURA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2773" version="1" changeset="-2773" lat="15.17696667" lon="-9.98363333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2773" version="1" changeset="-2773" lat="15.17696667" lon="-9.98363333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="232"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -1178,7 +1178,7 @@
 <tag k="school:nb_schoolboys_2012" v="167"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2781" version="1" changeset="-2781" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2781" version="1" changeset="-2781" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="12"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1203,7 +1203,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2782" version="1" changeset="-2782" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2782" version="1" changeset="-2782" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1228,7 +1228,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2783" version="1" changeset="-2783" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2783" version="1" changeset="-2783" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1253,7 +1253,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2785" version="1" changeset="-2785" lat="14.30006667" lon="-9.84866667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2785" version="1" changeset="-2785" lat="14.30006667" lon="-9.84866667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="469"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -1276,7 +1276,7 @@
 <tag k="school:nb_schoolboys_2012" v="326"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2786" version="1" changeset="-2786" lat="14.30006667" lon="-9.84866667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2786" version="1" changeset="-2786" lat="14.30006667" lon="-9.84866667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="117"/>
 <tag k="school:fondamental_second_cycle" v="yes"/>
@@ -1299,7 +1299,7 @@
 <tag k="school:nb_schoolboys_2012" v="99"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2790" version="1" changeset="-2790" lat="14.65941667" lon="-8.78835000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2790" version="1" changeset="-2790" lat="14.65941667" lon="-8.78835" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1323,7 +1323,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2799" version="1" changeset="-2799" lat="14.86396667" lon="-10.09596667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2799" version="1" changeset="-2799" lat="14.86396667" lon="-10.09596667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1347,7 +1347,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2821" version="1" changeset="-2821" lat="14.53853333" lon="-8.56776667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2821" version="1" changeset="-2821" lat="14.53853333" lon="-8.56776667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1371,7 +1371,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2822" version="1" changeset="-2822" lat="14.53853333" lon="-8.56776667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2822" version="1" changeset="-2822" lat="14.53853333" lon="-8.56776667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1396,7 +1396,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2857" version="1" changeset="-2857" lat="15.35483333" lon="-9.17545000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2857" version="1" changeset="-2857" lat="15.35483333" lon="-9.17545" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1420,7 +1420,7 @@
 <tag k="is_in:commune" v="DIARRA"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2899" version="1" changeset="-2899" lat="15.10736667" lon="-9.80966667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2899" version="1" changeset="-2899" lat="15.10736667" lon="-9.80966667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="10"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1445,7 +1445,7 @@
 <tag k="is_in:commune" v="COMMUNE DE YOURI"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-2917" version="1" changeset="-2917" lat="14.95715000" lon="-9.25515000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2917" version="1" changeset="-2917" lat="14.95715" lon="-9.25515" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1469,7 +1469,7 @@
 <tag k="is_in:commune" v="BEMA"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2928" version="1" changeset="-2928" lat="14.63725000" lon="-9.53086667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2928" version="1" changeset="-2928" lat="14.63725" lon="-9.53086667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1493,7 +1493,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2929" version="1" changeset="-2929" lat="14.61205000" lon="-9.20551667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2929" version="1" changeset="-2929" lat="14.61205" lon="-9.20551667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1517,7 +1517,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2941" version="1" changeset="-2941" lat="14.50243333" lon="-9.43321667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2941" version="1" changeset="-2941" lat="14.50243333" lon="-9.43321667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="252"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -1540,7 +1540,7 @@
 <tag k="school:nb_schoolboys_2012" v="190"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2942" version="1" changeset="-2942" lat="14.50243333" lon="-9.43321667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2942" version="1" changeset="-2942" lat="14.50243333" lon="-9.43321667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1564,7 +1564,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2943" version="1" changeset="-2943" lat="14.50243333" lon="-9.43321667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2943" version="1" changeset="-2943" lat="14.50243333" lon="-9.43321667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1588,7 +1588,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-2948" version="1" changeset="-2948" lat="15.18176667" lon="-9.18651667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2948" version="1" changeset="-2948" lat="15.18176667" lon="-9.18651667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1612,7 +1612,7 @@
 <tag k="is_in:commune" v="BANIERE-KORE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2953" version="1" changeset="-2953" lat="15.11696667" lon="-9.43151667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2953" version="1" changeset="-2953" lat="15.11696667" lon="-9.43151667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="no"/>
@@ -1636,7 +1636,7 @@
 <tag k="is_in:commune" v="FASSOUDEBE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2956" version="1" changeset="-2956" lat="14.32655000" lon="-9.53213333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2956" version="1" changeset="-2956" lat="14.32655" lon="-9.53213333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1661,7 +1661,7 @@
 <tag k="is_in:commune" v="COMMUNE DE FATAOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2957" version="1" changeset="-2957" lat="14.32655000" lon="-9.53213333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2957" version="1" changeset="-2957" lat="14.32655" lon="-9.53213333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1686,7 +1686,7 @@
 <tag k="is_in:commune" v="COMMUNE DE FATAOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2967" version="1" changeset="-2967" lat="15.24443333" lon="-9.69943333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2967" version="1" changeset="-2967" lat="15.24443333" lon="-9.69943333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1710,7 +1710,7 @@
 <tag k="is_in:commune" v="GADIABA KADIEL"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-2971" version="1" changeset="-2971" lat="14.46375000" lon="-8.88406667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2971" version="1" changeset="-2971" lat="14.46375" lon="-8.88406667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1734,7 +1734,7 @@
 <tag k="is_in:commune" v="DIANGUIRDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2980" version="1" changeset="-2980" lat="15.11148333" lon="-9.98123333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2980" version="1" changeset="-2980" lat="15.11148333" lon="-9.98123333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1759,7 +1759,7 @@
 <tag k="is_in:commune" v="GAVINANE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2981" version="1" changeset="-2981" lat="15.11148333" lon="-9.98123333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2981" version="1" changeset="-2981" lat="15.11148333" lon="-9.98123333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1783,7 +1783,7 @@
 <tag k="is_in:commune" v="GAVINANE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-2989" version="1" changeset="-2989" lat="15.08221667" lon="-9.71191667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2989" version="1" changeset="-2989" lat="15.08221667" lon="-9.71191667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="105"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -1806,7 +1806,7 @@
 <tag k="school:nb_schoolboys_2012" v="35"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-2990" version="1" changeset="-2990" lat="15.12460000" lon="-9.64768333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-2990" version="1" changeset="-2990" lat="15.1246" lon="-9.64768333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1830,7 +1830,7 @@
 <tag k="is_in:commune" v="GADIABA KADIEL"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3011" version="1" changeset="-3011" lat="15.13526667" lon="-9.88803333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3011" version="1" changeset="-3011" lat="15.13526667" lon="-9.88803333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1855,7 +1855,7 @@
 <tag k="is_in:commune" v="GAVINANE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3015" version="1" changeset="-3015" lat="15.68498333" lon="-9.32888333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3015" version="1" changeset="-3015" lat="15.68498333" lon="-9.32888333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1879,7 +1879,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3016" version="1" changeset="-3016" lat="15.68498333" lon="-9.32888333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3016" version="1" changeset="-3016" lat="15.68498333" lon="-9.32888333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="259"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -1902,7 +1902,7 @@
 <tag k="school:nb_schoolboys_2012" v="159"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3017" version="1" changeset="-3017" lat="15.68498333" lon="-9.32888333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3017" version="1" changeset="-3017" lat="15.68498333" lon="-9.32888333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1926,7 +1926,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3018" version="1" changeset="-3018" lat="15.68498333" lon="-9.32888333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3018" version="1" changeset="-3018" lat="15.68498333" lon="-9.32888333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1950,7 +1950,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3022" version="1" changeset="-3022" lat="14.42728333" lon="-8.27465000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3022" version="1" changeset="-3022" lat="14.42728333" lon="-8.27465" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1975,7 +1975,7 @@
 <tag k="is_in:commune" v="GOMITRADOUGOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3023" version="1" changeset="-3023" lat="14.42728333" lon="-8.27465000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3023" version="1" changeset="-3023" lat="14.42728333" lon="-8.27465" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -1999,7 +1999,7 @@
 <tag k="is_in:commune" v="GOMITRADOUGOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3028" version="1" changeset="-3028" lat="14.64688333" lon="-9.63431667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3028" version="1" changeset="-3028" lat="14.64688333" lon="-9.63431667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2024,7 +2024,7 @@
 <tag k="is_in:commune" v="LAKAMANE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3036" version="1" changeset="-3036" lat="15.12940000" lon="-9.36445000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3036" version="1" changeset="-3036" lat="15.1294" lon="-9.36445" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2049,7 +2049,7 @@
 <tag k="is_in:commune" v="GUEDEBINE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3047" version="1" changeset="-3047" lat="14.90989000" lon="-10.26678000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3047" version="1" changeset="-3047" lat="14.90989" lon="-10.26678" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2073,7 +2073,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-3048" version="1" changeset="-3048" lat="14.38915000" lon="-9.46296667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3048" version="1" changeset="-3048" lat="14.38915" lon="-9.46296667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="93"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -2096,7 +2096,7 @@
 <tag k="school:nb_schoolboys_2012" v="57"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3049" version="1" changeset="-3049" lat="15.20393333" lon="-9.52541667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3049" version="1" changeset="-3049" lat="15.20393333" lon="-9.52541667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="55"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -2119,7 +2119,7 @@
 <tag k="school:nb_schoolboys_2012" v="21"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3053" version="1" changeset="-3053" lat="14.82801667" lon="-9.13840000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3053" version="1" changeset="-3053" lat="14.82801667" lon="-9.1384" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2143,7 +2143,7 @@
 <tag k="is_in:commune" v="GROUMERA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3055" version="1" changeset="-3055" lat="15.12916667" lon="-9.39736667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3055" version="1" changeset="-3055" lat="15.12916667" lon="-9.39736667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2168,7 +2168,7 @@
 <tag k="is_in:commune" v="GUEDEBINE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3056" version="1" changeset="-3056" lat="14.54768333" lon="-9.31193333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3056" version="1" changeset="-3056" lat="14.54768333" lon="-9.31193333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2193,7 +2193,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3057" version="1" changeset="-3057" lat="14.73986667" lon="-9.72643333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3057" version="1" changeset="-3057" lat="14.73986667" lon="-9.72643333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2218,7 +2218,7 @@
 <tag k="is_in:commune" v="SIMBI"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-3069" version="1" changeset="-3069" lat="15.12036667" lon="-9.58291667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3069" version="1" changeset="-3069" lat="15.12036667" lon="-9.58291667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2243,7 +2243,7 @@
 <tag k="is_in:commune" v="GUETEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3071" version="1" changeset="-3071" lat="15.09005000" lon="-9.50278333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3071" version="1" changeset="-3071" lat="15.09005" lon="-9.50278333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2268,7 +2268,7 @@
 <tag k="is_in:commune" v="FASSOUDEBE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3075" version="1" changeset="-3075" lat="15.44645000" lon="-9.77160000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3075" version="1" changeset="-3075" lat="15.44645" lon="-9.7716" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="129"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -2291,7 +2291,7 @@
 <tag k="school:nb_schoolboys_2012" v="82"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3080" version="1" changeset="-3080" lat="15.10736667" lon="-9.80966667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3080" version="1" changeset="-3080" lat="15.10736667" lon="-9.80966667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2316,7 +2316,7 @@
 <tag k="is_in:commune" v="COMMUNE DE YOURI"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3085" version="1" changeset="-3085" lat="14.44348333" lon="-9.31535000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3085" version="1" changeset="-3085" lat="14.44348333" lon="-9.31535" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2341,7 +2341,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3105" version="1" changeset="-3105" lat="15.44260000" lon="-9.27496667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3105" version="1" changeset="-3105" lat="15.4426" lon="-9.27496667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="no"/>
@@ -2365,7 +2365,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3106" version="1" changeset="-3106" lat="14.33915000" lon="-9.80725000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3106" version="1" changeset="-3106" lat="14.33915" lon="-9.80725" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="158"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -2388,7 +2388,7 @@
 <tag k="school:nb_schoolboys_2012" v="103"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3120" version="1" changeset="-3120" lat="14.25985000" lon="-9.46885000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3120" version="1" changeset="-3120" lat="14.25985" lon="-9.46885" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2412,7 +2412,7 @@
 <tag k="is_in:commune" v="COMMUNE DE FATAOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3121" version="1" changeset="-3121" lat="14.47703333" lon="-9.53216667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3121" version="1" changeset="-3121" lat="14.47703333" lon="-9.53216667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2437,7 +2437,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3127" version="1" changeset="-3127" lat="14.42185000" lon="-8.62548333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3127" version="1" changeset="-3127" lat="14.42185" lon="-8.62548333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2462,7 +2462,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3140" version="1" changeset="-3140" lat="15.07450000" lon="-9.33973333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3140" version="1" changeset="-3140" lat="15.0745" lon="-9.33973333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2487,7 +2487,7 @@
 <tag k="is_in:commune" v="BEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3144" version="1" changeset="-3144" lat="14.77380000" lon="-9.16856667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3144" version="1" changeset="-3144" lat="14.7738" lon="-9.16856667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2512,7 +2512,7 @@
 <tag k="is_in:commune" v="GROUMERA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3145" version="1" changeset="-3145" lat="15.00585000" lon="-9.44496667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3145" version="1" changeset="-3145" lat="15.00585" lon="-9.44496667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2537,7 +2537,7 @@
 <tag k="is_in:commune" v="BEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3146" version="1" changeset="-3146" lat="14.36825000" lon="-9.10598333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3146" version="1" changeset="-3146" lat="14.36825" lon="-9.10598333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2562,7 +2562,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3150" version="1" changeset="-3150" lat="14.63465000" lon="-9.43171667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3150" version="1" changeset="-3150" lat="14.63465" lon="-9.43171667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2586,7 +2586,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3154" version="1" changeset="-3154" lat="14.63228333" lon="-10.06726667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3154" version="1" changeset="-3154" lat="14.63228333" lon="-10.06726667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="166"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -2609,7 +2609,7 @@
 <tag k="school:nb_schoolboys_2012" v="97"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3168" version="1" changeset="-3168" lat="15.17598333" lon="-9.37333333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3168" version="1" changeset="-3168" lat="15.17598333" lon="-9.37333333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2633,7 +2633,7 @@
 <tag k="is_in:commune" v="GUEDEBINE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3169" version="1" changeset="-3169" lat="14.32268333" lon="-9.60288333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3169" version="1" changeset="-3169" lat="14.32268333" lon="-9.60288333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2658,7 +2658,7 @@
 <tag k="is_in:commune" v="LAMBIDOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3179" version="1" changeset="-3179" lat="14.86638333" lon="-9.26611667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3179" version="1" changeset="-3179" lat="14.86638333" lon="-9.26611667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2683,7 +2683,7 @@
 <tag k="is_in:commune" v="GROUMERA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3272" version="1" changeset="-3272" lat="14.58981667" lon="-9.83835000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3272" version="1" changeset="-3272" lat="14.58981667" lon="-9.83835" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="119"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -2706,7 +2706,7 @@
 <tag k="school:nb_schoolboys_2012" v="82"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3296" version="1" changeset="-3296" lat="14.65121667" lon="-9.81058333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3296" version="1" changeset="-3296" lat="14.65121667" lon="-9.81058333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2731,7 +2731,7 @@
 <tag k="is_in:commune" v="LAKAMANE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3300" version="1" changeset="-3300" lat="15.03618333" lon="-9.56211667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3300" version="1" changeset="-3300" lat="15.03618333" lon="-9.56211667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2755,7 +2755,7 @@
 <tag k="is_in:commune" v="GUETEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3320" version="1" changeset="-3320" lat="15.14175000" lon="-8.95593333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3320" version="1" changeset="-3320" lat="15.14175" lon="-8.95593333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="8"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2780,7 +2780,7 @@
 <tag k="is_in:commune" v="KORERA-KORE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3321" version="1" changeset="-3321" lat="15.14175000" lon="-8.95593333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3321" version="1" changeset="-3321" lat="15.14175" lon="-8.95593333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="140"/>
 <tag k="school:fondamental_second_cycle" v="yes"/>
@@ -2803,7 +2803,7 @@
 <tag k="school:nb_schoolboys_2012" v="116"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3322" version="1" changeset="-3322" lat="15.14175000" lon="-8.95593333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3322" version="1" changeset="-3322" lat="15.14175" lon="-8.95593333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="290"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -2826,7 +2826,7 @@
 <tag k="school:nb_schoolboys_2012" v="189"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3323" version="1" changeset="-3323" lat="15.33301667" lon="-9.49305000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3323" version="1" changeset="-3323" lat="15.33301667" lon="-9.49305" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="115"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -2849,7 +2849,7 @@
 <tag k="school:nb_schoolboys_2012" v="33"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3334" version="1" changeset="-3334" lat="15.29190000" lon="-9.27716667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3334" version="1" changeset="-3334" lat="15.2919" lon="-9.27716667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2873,7 +2873,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3343" version="1" changeset="-3343" lat="14.44660000" lon="-8.37430000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3343" version="1" changeset="-3343" lat="14.4466" lon="-8.3743" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2898,7 +2898,7 @@
 <tag k="is_in:commune" v="GOMITRADOUGOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3350" version="1" changeset="-3350" lat="14.38268333" lon="-9.56146667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3350" version="1" changeset="-3350" lat="14.38268333" lon="-9.56146667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2923,7 +2923,7 @@
 <tag k="is_in:commune" v="LAMBIDOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3351" version="1" changeset="-3351" lat="14.38268333" lon="-9.56146667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3351" version="1" changeset="-3351" lat="14.38268333" lon="-9.56146667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2948,7 +2948,7 @@
 <tag k="is_in:commune" v="LAMBIDOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3360" version="1" changeset="-3360" lat="14.91506667" lon="-9.36423333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3360" version="1" changeset="-3360" lat="14.91506667" lon="-9.36423333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -2972,7 +2972,7 @@
 <tag k="is_in:commune" v="BEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3367" version="1" changeset="-3367" lat="14.20390000" lon="-9.15185000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3367" version="1" changeset="-3367" lat="14.2039" lon="-9.15185" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="no"/>
@@ -2996,7 +2996,7 @@
 <tag k="is_in:commune" v="DIANGUIRDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3368" version="1" changeset="-3368" lat="15.42270000" lon="-9.48615000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3368" version="1" changeset="-3368" lat="15.4227" lon="-9.48615" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="no"/>
@@ -3020,7 +3020,7 @@
 <tag k="is_in:commune" v="YERERE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3369" version="1" changeset="-3369" lat="15.42270000" lon="-9.48615000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3369" version="1" changeset="-3369" lat="15.4227" lon="-9.48615" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="no"/>
@@ -3044,7 +3044,7 @@
 <tag k="is_in:commune" v="YERERE"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3388" version="1" changeset="-3388" lat="15.63570000" lon="-9.35973333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3388" version="1" changeset="-3388" lat="15.6357" lon="-9.35973333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="52"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3067,7 +3067,7 @@
 <tag k="school:nb_schoolboys_2012" v="25"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3403" version="1" changeset="-3403" lat="14.50835000" lon="-9.90775000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3403" version="1" changeset="-3403" lat="14.50835" lon="-9.90775" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3092,7 +3092,7 @@
 <tag k="is_in:commune" v="LAKAMANE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3404" version="1" changeset="-3404" lat="14.50835000" lon="-9.90775000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3404" version="1" changeset="-3404" lat="14.50835" lon="-9.90775" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3116,7 +3116,7 @@
 <tag k="is_in:commune" v="LAKAMANE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3406" version="1" changeset="-3406" lat="15.08543333" lon="-8.85981667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3406" version="1" changeset="-3406" lat="15.08543333" lon="-8.85981667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="no"/>
@@ -3140,7 +3140,7 @@
 <tag k="is_in:commune" v="KORERA-KORE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-3409" version="1" changeset="-3409" lat="14.31640000" lon="-9.54666667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3409" version="1" changeset="-3409" lat="14.3164" lon="-9.54666667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3165,7 +3165,7 @@
 <tag k="is_in:commune" v="LAMBIDOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3410" version="1" changeset="-3410" lat="14.31640000" lon="-9.54666667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3410" version="1" changeset="-3410" lat="14.3164" lon="-9.54666667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="563"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3188,7 +3188,7 @@
 <tag k="school:nb_schoolboys_2012" v="392"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3411" version="1" changeset="-3411" lat="14.31640000" lon="-9.54666667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3411" version="1" changeset="-3411" lat="14.3164" lon="-9.54666667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3212,7 +3212,7 @@
 <tag k="is_in:commune" v="LAMBIDOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3417" version="1" changeset="-3417" lat="14.53213333" lon="-9.72795000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3417" version="1" changeset="-3417" lat="14.53213333" lon="-9.72795" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3237,7 +3237,7 @@
 <tag k="is_in:commune" v="LAKAMANE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3424" version="1" changeset="-3424" lat="14.41988333" lon="-10.09411667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3424" version="1" changeset="-3424" lat="14.41988333" lon="-10.09411667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="no"/>
@@ -3261,7 +3261,7 @@
 <tag k="is_in:commune" v="SANSANKIDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3427" version="1" changeset="-3427" lat="14.72845000" lon="-9.60216667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3427" version="1" changeset="-3427" lat="14.72845" lon="-9.60216667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3285,7 +3285,7 @@
 <tag k="is_in:commune" v="SIMBI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3461" version="1" changeset="-3461" lat="14.51796667" lon="-8.64116667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3461" version="1" changeset="-3461" lat="14.51796667" lon="-8.64116667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3309,7 +3309,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3462" version="1" changeset="-3462" lat="14.35858333" lon="-9.30555000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3462" version="1" changeset="-3462" lat="14.35858333" lon="-9.30555" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3334,7 +3334,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3463" version="1" changeset="-3463" lat="14.35858333" lon="-9.30555000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3463" version="1" changeset="-3463" lat="14.35858333" lon="-9.30555" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3358,7 +3358,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3464" version="1" changeset="-3464" lat="14.35858333" lon="-9.30555000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3464" version="1" changeset="-3464" lat="14.35858333" lon="-9.30555" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3383,7 +3383,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3472" version="1" changeset="-3472" lat="15.16625000" lon="-9.59581667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3472" version="1" changeset="-3472" lat="15.16625" lon="-9.59581667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="208"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3406,7 +3406,7 @@
 <tag k="school:nb_schoolboys_2012" v="88"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3478" version="1" changeset="-3478" lat="15.17751667" lon="-9.33811667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3478" version="1" changeset="-3478" lat="15.17751667" lon="-9.33811667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="125"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3429,7 +3429,7 @@
 <tag k="school:nb_schoolboys_2012" v="78"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3481" version="1" changeset="-3481" lat="14.32501667" lon="-9.75095000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3481" version="1" changeset="-3481" lat="14.32501667" lon="-9.75095" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="76"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3452,7 +3452,7 @@
 <tag k="school:nb_schoolboys_2012" v="56"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3508" version="1" changeset="-3508" lat="14.64905000" lon="-10.53935000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3508" version="1" changeset="-3508" lat="14.64905" lon="-10.53935" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3477,7 +3477,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-3514" version="1" changeset="-3514" lat="15.23838333" lon="-9.58658333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3514" version="1" changeset="-3514" lat="15.23838333" lon="-9.58658333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3502,7 +3502,7 @@
 <tag k="is_in:commune" v="COMMUNE DE NIORO"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3524" version="1" changeset="-3524" lat="14.70986667" lon="-9.10383333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3524" version="1" changeset="-3524" lat="14.70986667" lon="-9.10383333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3527,7 +3527,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3525" version="1" changeset="-3525" lat="15.06101667" lon="-9.13081667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3525" version="1" changeset="-3525" lat="15.06101667" lon="-9.13081667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3551,7 +3551,7 @@
 <tag k="is_in:commune" v="DIABIGUE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3562" version="1" changeset="-3562" lat="15.14175000" lon="-8.95593333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3562" version="1" changeset="-3562" lat="15.14175" lon="-8.95593333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="289"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3574,7 +3574,7 @@
 <tag k="school:nb_schoolboys_2012" v="191"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3564" version="1" changeset="-3564" lat="14.82933333" lon="-9.85528333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3564" version="1" changeset="-3564" lat="14.82933333" lon="-9.85528333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3598,7 +3598,7 @@
 <tag k="is_in:commune" v="SIMBI"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3566" version="1" changeset="-3566" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3566" version="1" changeset="-3566" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="141"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3621,7 +3621,7 @@
 <tag k="school:nb_schoolboys_2012" v="73"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3567" version="1" changeset="-3567" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3567" version="1" changeset="-3567" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3645,7 +3645,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3568" version="1" changeset="-3568" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3568" version="1" changeset="-3568" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="176"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3668,7 +3668,7 @@
 <tag k="school:nb_schoolboys_2012" v="146"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3573" version="1" changeset="-3573" lat="14.70460000" lon="-10.30461667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3573" version="1" changeset="-3573" lat="14.7046" lon="-10.30461667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="no"/>
@@ -3692,7 +3692,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3575" version="1" changeset="-3575" lat="14.30006667" lon="-9.84866667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3575" version="1" changeset="-3575" lat="14.30006667" lon="-9.84866667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="78"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3715,7 +3715,7 @@
 <tag k="school:nb_schoolboys_2012" v="37"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3580" version="1" changeset="-3580" lat="15.55731667" lon="-9.23428333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3580" version="1" changeset="-3580" lat="15.55731667" lon="-9.23428333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3739,7 +3739,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3581" version="1" changeset="-3581" lat="14.42173333" lon="-9.31848333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3581" version="1" changeset="-3581" lat="14.42173333" lon="-9.31848333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3763,7 +3763,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3582" version="1" changeset="-3582" lat="15.04171667" lon="-9.35240000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3582" version="1" changeset="-3582" lat="15.04171667" lon="-9.3524" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="no"/>
@@ -3787,7 +3787,7 @@
 <tag k="is_in:commune" v="BEMA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3586" version="1" changeset="-3586" lat="14.62083333" lon="-9.18721667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3586" version="1" changeset="-3586" lat="14.62083333" lon="-9.18721667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="114"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3810,7 +3810,7 @@
 <tag k="school:nb_schoolboys_2012" v="76"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3587" version="1" changeset="-3587" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3587" version="1" changeset="-3587" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3835,7 +3835,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3588" version="1" changeset="-3588" lat="14.30006667" lon="-9.84866667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3588" version="1" changeset="-3588" lat="14.30006667" lon="-9.84866667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3859,7 +3859,7 @@
 <tag k="is_in:commune" v="DIEOURA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3589" version="1" changeset="-3589" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3589" version="1" changeset="-3589" lat="14.54093333" lon="-9.19053333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3884,7 +3884,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3593" version="1" changeset="-3593" lat="14.31625000" lon="-9.88881667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3593" version="1" changeset="-3593" lat="14.31625" lon="-9.88881667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3908,7 +3908,7 @@
 <tag k="is_in:commune" v="DIEOURA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3595" version="1" changeset="-3595" lat="15.12036667" lon="-9.58291667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3595" version="1" changeset="-3595" lat="15.12036667" lon="-9.58291667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -3932,7 +3932,7 @@
 <tag k="is_in:commune" v="GUETEMA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3596" version="1" changeset="-3596" lat="14.90695000" lon="-9.67841667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3596" version="1" changeset="-3596" lat="14.90695" lon="-9.67841667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="118"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -3955,7 +3955,7 @@
 <tag k="school:nb_schoolboys_2012" v="74"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3600" version="1" changeset="-3600" lat="14.53853333" lon="-8.56776667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3600" version="1" changeset="-3600" lat="14.53853333" lon="-8.56776667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="no"/>
@@ -3979,7 +3979,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3601" version="1" changeset="-3601" lat="14.61205000" lon="-9.20551667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3601" version="1" changeset="-3601" lat="14.61205" lon="-9.20551667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="111"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4002,7 +4002,7 @@
 <tag k="school:nb_schoolboys_2012" v="75"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3605" version="1" changeset="-3605" lat="14.50423333" lon="-9.69483333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3605" version="1" changeset="-3605" lat="14.50423333" lon="-9.69483333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="95"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4025,7 +4025,7 @@
 <tag k="school:nb_schoolboys_2012" v="65"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3607" version="1" changeset="-3607" lat="14.47703333" lon="-9.53216667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3607" version="1" changeset="-3607" lat="14.47703333" lon="-9.53216667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="no"/>
@@ -4049,7 +4049,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3608" version="1" changeset="-3608" lat="14.63465000" lon="-9.43171667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3608" version="1" changeset="-3608" lat="14.63465" lon="-9.43171667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4073,7 +4073,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3610" version="1" changeset="-3610" lat="14.86638333" lon="-9.26611667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3610" version="1" changeset="-3610" lat="14.86638333" lon="-9.26611667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4097,7 +4097,7 @@
 <tag k="is_in:commune" v="GROUMERA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3614" version="1" changeset="-3614" lat="14.50835000" lon="-9.90775000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3614" version="1" changeset="-3614" lat="14.50835" lon="-9.90775" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4121,7 +4121,7 @@
 <tag k="is_in:commune" v="LAKAMANE"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3619" version="1" changeset="-3619" lat="15.11701667" lon="-10.02001667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3619" version="1" changeset="-3619" lat="15.11701667" lon="-10.02001667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4145,7 +4145,7 @@
 <tag k="is_in:commune" v="DIAYE COURA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3627" version="1" changeset="-3627" lat="15.26825000" lon="-9.62566667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3627" version="1" changeset="-3627" lat="15.26825" lon="-9.62566667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4169,7 +4169,7 @@
 <tag k="is_in:commune" v="NIORO TOGOUNE"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3630" version="1" changeset="-3630" lat="14.70331667" lon="-9.50751667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3630" version="1" changeset="-3630" lat="14.70331667" lon="-9.50751667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4194,7 +4194,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3641" version="1" changeset="-3641" lat="14.35858333" lon="-9.30555000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3641" version="1" changeset="-3641" lat="14.35858333" lon="-9.30555" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4219,7 +4219,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3643" version="1" changeset="-3643" lat="14.42696667" lon="-8.99820000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3643" version="1" changeset="-3643" lat="14.42696667" lon="-8.9982" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4243,7 +4243,7 @@
 <tag k="is_in:commune" v="DIANGUIRDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3644" version="1" changeset="-3644" lat="15.22458333" lon="-9.28540000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3644" version="1" changeset="-3644" lat="15.22458333" lon="-9.2854" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4267,7 +4267,7 @@
 <tag k="is_in:commune" v="DIABIGUE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3648" version="1" changeset="-3648" lat="14.41801667" lon="-8.49085000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3648" version="1" changeset="-3648" lat="14.41801667" lon="-8.49085" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="107"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4290,7 +4290,7 @@
 <tag k="school:nb_schoolboys_2012" v="65"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3660" version="1" changeset="-3660" lat="14.98286667" lon="-10.01835000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3660" version="1" changeset="-3660" lat="14.98286667" lon="-10.01835" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="no"/>
@@ -4314,7 +4314,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3670" version="1" changeset="-3670" lat="14.24058333" lon="-9.44688333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3670" version="1" changeset="-3670" lat="14.24058333" lon="-9.44688333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="132"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4337,7 +4337,7 @@
 <tag k="school:nb_schoolboys_2012" v="94"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3671" version="1" changeset="-3671" lat="14.24058333" lon="-9.44688333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3671" version="1" changeset="-3671" lat="14.24058333" lon="-9.44688333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4361,7 +4361,7 @@
 <tag k="is_in:commune" v="COMMUNE DE FATAOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3684" version="1" changeset="-3684" lat="15.27675000" lon="-9.12858333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3684" version="1" changeset="-3684" lat="15.27675" lon="-9.12858333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4385,7 +4385,7 @@
 <tag k="is_in:commune" v="BANIERE-KORE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3686" version="1" changeset="-3686" lat="15.55731667" lon="-9.23428333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3686" version="1" changeset="-3686" lat="15.55731667" lon="-9.23428333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4410,7 +4410,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3692" version="1" changeset="-3692" lat="15.38961667" lon="-9.24238333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3692" version="1" changeset="-3692" lat="15.38961667" lon="-9.24238333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="205"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4433,7 +4433,7 @@
 <tag k="school:nb_schoolboys_2012" v="129"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3698" version="1" changeset="-3698" lat="14.34150000" lon="-8.29465000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3698" version="1" changeset="-3698" lat="14.3415" lon="-8.29465" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="57"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4456,7 +4456,7 @@
 <tag k="school:nb_schoolboys_2012" v="33"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3729" version="1" changeset="-3729" lat="14.50410000" lon="-8.33341667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3729" version="1" changeset="-3729" lat="14.5041" lon="-8.33341667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="no"/>
@@ -4480,7 +4480,7 @@
 <tag k="is_in:commune" v="GOMITRADOUGOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3732" version="1" changeset="-3732" lat="15.33913333" lon="-9.30908333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3732" version="1" changeset="-3732" lat="15.33913333" lon="-9.30908333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4504,7 +4504,7 @@
 <tag k="is_in:commune" v="DIARRA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3748" version="1" changeset="-3748" lat="15.26830000" lon="-9.62676667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3748" version="1" changeset="-3748" lat="15.2683" lon="-9.62676667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4529,7 +4529,7 @@
 <tag k="is_in:commune" v="NIORO TOGOUNE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3750" version="1" changeset="-3750" lat="15.26050000" lon="-9.47400000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3750" version="1" changeset="-3750" lat="15.2605" lon="-9.474" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="no"/>
@@ -4553,7 +4553,7 @@
 <tag k="is_in:commune" v="YERERE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3778" version="1" changeset="-3778" lat="15.12168333" lon="-10.09930000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3778" version="1" changeset="-3778" lat="15.12168333" lon="-10.0993" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="145"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4576,7 +4576,7 @@
 <tag k="school:nb_schoolboys_2012" v="89"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3805" version="1" changeset="-3805" lat="15.10413333" lon="-10.01991667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3805" version="1" changeset="-3805" lat="15.10413333" lon="-10.01991667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="159"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4599,7 +4599,7 @@
 <tag k="school:nb_schoolboys_2012" v="105"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3814" version="1" changeset="-3814" lat="14.35858333" lon="-9.30555000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3814" version="1" changeset="-3814" lat="14.35858333" lon="-9.30555" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4624,7 +4624,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3826" version="1" changeset="-3826" lat="15.08543333" lon="-8.85981667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3826" version="1" changeset="-3826" lat="15.08543333" lon="-8.85981667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="78"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4647,7 +4647,7 @@
 <tag k="school:nb_schoolboys_2012" v="52"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3833" version="1" changeset="-3833" lat="14.35858333" lon="-9.30555000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3833" version="1" changeset="-3833" lat="14.35858333" lon="-9.30555" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4671,7 +4671,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-3850" version="1" changeset="-3850" lat="14.31035000" lon="-9.03336667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3850" version="1" changeset="-3850" lat="14.31035" lon="-9.03336667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4696,7 +4696,7 @@
 <tag k="is_in:commune" v="DIANGUIRDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3870" version="1" changeset="-3870" lat="14.76300000" lon="-10.22446667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3870" version="1" changeset="-3870" lat="14.763" lon="-10.22446667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4721,7 +4721,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3875" version="1" changeset="-3875" lat="15.22961667" lon="-9.74226667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3875" version="1" changeset="-3875" lat="15.22961667" lon="-9.74226667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4745,7 +4745,7 @@
 <tag k="is_in:commune" v="GADIABA KADIEL"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-3890" version="1" changeset="-3890" lat="14.70460000" lon="-10.30461667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3890" version="1" changeset="-3890" lat="14.7046" lon="-10.30461667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4770,7 +4770,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3891" version="1" changeset="-3891" lat="14.70460000" lon="-10.30461667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3891" version="1" changeset="-3891" lat="14.7046" lon="-10.30461667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="8"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4795,7 +4795,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3903" version="1" changeset="-3903" lat="14.34546667" lon="-9.97918333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3903" version="1" changeset="-3903" lat="14.34546667" lon="-9.97918333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4820,7 +4820,7 @@
 <tag k="is_in:commune" v="SANSANKIDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3906" version="1" changeset="-3906" lat="14.42486667" lon="-9.96108333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3906" version="1" changeset="-3906" lat="14.42486667" lon="-9.96108333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4845,7 +4845,7 @@
 <tag k="is_in:commune" v="SANSANKIDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3907" version="1" changeset="-3907" lat="14.42486667" lon="-9.96108333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3907" version="1" changeset="-3907" lat="14.42486667" lon="-9.96108333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="72"/>
 <tag k="school:fondamental_second_cycle" v="yes"/>
@@ -4868,7 +4868,7 @@
 <tag k="school:nb_schoolboys_2012" v="50"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3920" version="1" changeset="-3920" lat="14.37311667" lon="-8.20781667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3920" version="1" changeset="-3920" lat="14.37311667" lon="-8.20781667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4892,7 +4892,7 @@
 <tag k="is_in:commune" v="GOMITRADOUGOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3947" version="1" changeset="-3947" lat="15.33955000" lon="-9.24451667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3947" version="1" changeset="-3947" lat="15.33955" lon="-9.24451667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="68"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4915,7 +4915,7 @@
 <tag k="school:nb_schoolboys_2012" v="41"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3955" version="1" changeset="-3955" lat="14.79346667" lon="-10.04426667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3955" version="1" changeset="-3955" lat="14.79346667" lon="-10.04426667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -4939,7 +4939,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3970" version="1" changeset="-3970" lat="15.17451667" lon="-9.71031667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3970" version="1" changeset="-3970" lat="15.17451667" lon="-9.71031667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="67"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4962,7 +4962,7 @@
 <tag k="school:nb_schoolboys_2012" v="37"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3973" version="1" changeset="-3973" lat="14.73568333" lon="-10.29965000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3973" version="1" changeset="-3973" lat="14.73568333" lon="-10.29965" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="191"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -4985,7 +4985,7 @@
 <tag k="school:nb_schoolboys_2012" v="103"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-3991" version="1" changeset="-3991" lat="14.90695000" lon="-9.67841667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3991" version="1" changeset="-3991" lat="14.90695" lon="-9.67841667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5010,7 +5010,7 @@
 <tag k="is_in:commune" v="SIMBI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3992" version="1" changeset="-3992" lat="14.90695000" lon="-9.67841667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3992" version="1" changeset="-3992" lat="14.90695" lon="-9.67841667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="no"/>
@@ -5034,7 +5034,7 @@
 <tag k="is_in:commune" v="SIMBI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-3993" version="1" changeset="-3993" lat="14.37275000" lon="-9.61295000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-3993" version="1" changeset="-3993" lat="14.37275" lon="-9.61295" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5058,7 +5058,7 @@
 <tag k="is_in:commune" v="LAMBIDOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4003" version="1" changeset="-4003" lat="15.12168333" lon="-10.09930000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4003" version="1" changeset="-4003" lat="15.12168333" lon="-10.0993" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="no"/>
@@ -5082,7 +5082,7 @@
 <tag k="is_in:commune" v="DIAYE COURA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-4022" version="1" changeset="-4022" lat="14.86251667" lon="-8.54548333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4022" version="1" changeset="-4022" lat="14.86251667" lon="-8.54548333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5107,7 +5107,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4025" version="1" changeset="-4025" lat="14.65716667" lon="-9.46711667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4025" version="1" changeset="-4025" lat="14.65716667" lon="-9.46711667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5131,7 +5131,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4047" version="1" changeset="-4047" lat="14.51551667" lon="-9.59335000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4047" version="1" changeset="-4047" lat="14.51551667" lon="-9.59335" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="63"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -5154,7 +5154,7 @@
 <tag k="school:nb_schoolboys_2012" v="48"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-4062" version="1" changeset="-4062" lat="14.44348333" lon="-9.31535000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4062" version="1" changeset="-4062" lat="14.44348333" lon="-9.31535" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5179,7 +5179,7 @@
 <tag k="is_in:commune" v="MADIGA-SACKO"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4068" version="1" changeset="-4068" lat="14.64905000" lon="-10.53935000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4068" version="1" changeset="-4068" lat="14.64905" lon="-10.53935" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="99"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -5202,7 +5202,7 @@
 <tag k="school:nb_schoolboys_2012" v="64"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-4109" version="1" changeset="-4109" lat="14.50903333" lon="-9.76116667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4109" version="1" changeset="-4109" lat="14.50903333" lon="-9.76116667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="no"/>
@@ -5226,7 +5226,7 @@
 <tag k="is_in:commune" v="DIEOURA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4110" version="1" changeset="-4110" lat="14.50903333" lon="-9.76116667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4110" version="1" changeset="-4110" lat="14.50903333" lon="-9.76116667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5250,7 +5250,7 @@
 <tag k="is_in:commune" v="DIEOURA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4122" version="1" changeset="-4122" lat="14.38768333" lon="-8.39640000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4122" version="1" changeset="-4122" lat="14.38768333" lon="-8.3964" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="no"/>
@@ -5274,7 +5274,7 @@
 <tag k="is_in:commune" v="GOMITRADOUGOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4127" version="1" changeset="-4127" lat="14.48991667" lon="-9.17950000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4127" version="1" changeset="-4127" lat="14.48991667" lon="-9.1795" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5299,7 +5299,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4128" version="1" changeset="-4128" lat="14.48991667" lon="-9.17950000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4128" version="1" changeset="-4128" lat="14.48991667" lon="-9.1795" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="9"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5324,7 +5324,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-4129" version="1" changeset="-4129" lat="14.48991667" lon="-9.17950000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4129" version="1" changeset="-4129" lat="14.48991667" lon="-9.1795" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5349,7 +5349,7 @@
 <tag k="is_in:commune" v="DIEMA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-4131" version="1" changeset="-4131" lat="15.28080000" lon="-9.62460000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4131" version="1" changeset="-4131" lat="15.2808" lon="-9.6246" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_pupils_2012" v="84"/>
 <tag k="school:fondamental_second_cycle" v="no"/>
@@ -5372,7 +5372,7 @@
 <tag k="school:nb_schoolboys_2012" v="25"/>
 <tag k="school:has_drinkable_water" v="no"/>
 </node>
-<node id="-4141" version="1" changeset="-4141" lat="14.43683333" lon="-8.56078333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4141" version="1" changeset="-4141" lat="14.43683333" lon="-8.56078333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5396,7 +5396,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4144" version="1" changeset="-4144" lat="14.51278333" lon="-8.84290000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4144" version="1" changeset="-4144" lat="14.51278333" lon="-8.8429" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5421,7 +5421,7 @@
 <tag k="is_in:commune" v="DIANGUIRDE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4147" version="1" changeset="-4147" lat="14.52361667" lon="-8.69268333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4147" version="1" changeset="-4147" lat="14.52361667" lon="-8.69268333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5445,7 +5445,7 @@
 <tag k="is_in:commune" v="DIOUMARA KOUSSATA"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-4164" version="1" changeset="-4164" lat="15.43325000" lon="-9.32190000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4164" version="1" changeset="-4164" lat="15.43325" lon="-9.3219" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="5"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5470,7 +5470,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4165" version="1" changeset="-4165" lat="15.43325000" lon="-9.32190000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4165" version="1" changeset="-4165" lat="15.43325" lon="-9.3219" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="3"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5495,7 +5495,7 @@
 <tag k="is_in:commune" v="GOGUI"/>
 <tag k="operator_type" v="private_religious"/>
 </node>
-<node id="-4171" version="1" changeset="-4171" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4171" version="1" changeset="-4171" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5520,7 +5520,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4172" version="1" changeset="-4172" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4172" version="1" changeset="-4172" lat="15.26513333" lon="-9.22868333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="8"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5545,7 +5545,7 @@
 <tag k="is_in:commune" v="COMMUNE DE TROUNGOUMBE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4177" version="1" changeset="-4177" lat="14.79801667" lon="-10.29618333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4177" version="1" changeset="-4177" lat="14.79801667" lon="-10.29618333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="4"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5569,7 +5569,7 @@
 <tag k="is_in:commune" v="SANDARE"/>
 <tag k="operator_type" v="community"/>
 </node>
-<node id="-4178" version="1" changeset="-4178" lat="14.50690000" lon="-9.59578333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4178" version="1" changeset="-4178" lat="14.5069" lon="-9.59578333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="1"/>
 <tag k="school:has_latrines" v="no"/>
@@ -5593,7 +5593,7 @@
 <tag k="is_in:commune" v="DIANCOUNTE CAMARA"/>
 <tag k="operator_type" v="private_laic"/>
 </node>
-<node id="-4179" version="1" changeset="-4179" lat="14.46598333" lon="-8.22263333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4179" version="1" changeset="-4179" lat="14.46598333" lon="-8.22263333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="no"/>
@@ -5617,7 +5617,7 @@
 <tag k="is_in:commune" v="GOMITRADOUGOU"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4196" version="1" changeset="-4196" lat="15.23180000" lon="-9.59405000" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4196" version="1" changeset="-4196" lat="15.2318" lon="-9.59405" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="no"/>
@@ -5641,7 +5641,7 @@
 <tag k="is_in:commune" v="YERERE"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4198" version="1" changeset="-4198" lat="15.10736667" lon="-9.80966667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4198" version="1" changeset="-4198" lat="15.10736667" lon="-9.80966667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="7"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5666,7 +5666,7 @@
 <tag k="is_in:commune" v="COMMUNE DE YOURI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4199" version="1" changeset="-4199" lat="15.10736667" lon="-9.80966667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4199" version="1" changeset="-4199" lat="15.10736667" lon="-9.80966667" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="6"/>
 <tag k="school:has_latrines" v="yes"/>
@@ -5691,7 +5691,7 @@
 <tag k="is_in:commune" v="COMMUNE DE YOURI"/>
 <tag k="operator_type" v="public"/>
 </node>
-<node id="-4200" version="1" changeset="-4200" lat="14.81598333" lon="-8.58718333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T11:58:30Z">
+<node id="-4200" version="1" changeset="-4200" lat="14.81598333" lon="-8.58718333" user="Open Data Mali" uid="2306601" visible="true" timestamp="2014-09-03T17:49:07Z">
 <tag k="amenity" v="school"/>
 <tag k="school:nb_teachers_2012" v="2"/>
 <tag k="school:has_latrines" v="no"/>
