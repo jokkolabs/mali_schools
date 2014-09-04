@@ -51,17 +51,17 @@ def getNode(entry, lnum):
     # Schools are `1er cycle` or `2ème cycle`
     cycle = 1 if entry.get('CYCLE') == "1er cycle" else 2
     has_latrines = entry.get('PRESENCE_LATRINES') == '1'
-    has_girl_latrines = entry.get('LATRINES_FILLES_SEPAREES') == '1'
+    # has_girl_latrines = entry.get('LATRINES_FILLES_SEPAREES') == '1'
     nb_latrines = int(entry.get('NOMBRE_LATRINES')) \
         if entry.get('NOMBRE_LATRINES') else 0
-    # nb_teachers = int(entry.get('NBRE ENSEIGNANTS')) \
-    #     if entry.get('NBRE ENSEIGNANTS') else None
+    nb_teachers = int(entry.get('NBRE ENSEIGNANTS')) \
+        if entry.get('NBRE ENSEIGNANTS') else None
 
     statuses = {
         "Communautaire": "community",
-        "Medersa": "private_religious",
-        "Privé confessionnel": "private_religious",
-        "Privé laïc": "private_laic",
+        "Medersa": "religious",
+        "Privé confessionnel": "religious",
+        "Privé laïc": "private",
         "Public": "public"
     }
 
@@ -85,8 +85,8 @@ def getNode(entry, lnum):
     tags = {
         'amenity': 'school',
         'name': clean(entry.get('NOM_ETABLISSEMENT')),
-        'operator_type': statuses.get(entry.get('STATUT')),
-        'is_in:country': "Mali",
+        'operator:type': statuses.get(entry.get('STATUT')),
+        'source': "UNICEF",
 
         # school classification
         'school:ML:academie': entry.get('AE'),
@@ -98,7 +98,7 @@ def getNode(entry, lnum):
         # Students
         # 'school:nb_schoolboys_2012': int(entry.get('GARCONS')),
         # 'school:nb_schoolgirls_2012': int(entry.get('FILLES')),
-        # 'school:nb_pupils_2012': int(entry.get('TOTAL')),
+        'capacity:pupils': int(entry.get('TOTAL')),
 
         'drinking_water': yesno(has_drinkable_water),
 
@@ -108,14 +108,15 @@ def getNode(entry, lnum):
         'toilets:number': nb_latrines,
     }
     # admin levels of Mali
-    if entry.get('Région'):
-        tags.update({'is_in:region': clean(entry.get('Région'))})
+    # if entry.get('Région'):
+    #     tags.update({'is_in:region': clean(entry.get('Région'))})
     if entry.get('Cercle'):
         tags.update({'is_in:cercle': clean(entry.get('Cercle'))})
     if entry.get('Commune'):
         tags.update({'is_in:commune': clean(entry.get('Commune'))})
     if entry.get('Localites'):
-        tags.update({'is_in:village': clean(entry.get('Localites'))})
+        tags.update({'is_in:village': clean(entry.get('Localites')),
+                     'addr:city': clean(entry.get('Localites'))})
 
     # School code
     # if entry.get('CODE_ETABLISSEMENT'):
@@ -128,8 +129,8 @@ def getNode(entry, lnum):
     if has_drinkable_water:
         tags.update({'drinking_water:type': water_point})
 
-    # if nb_teachers is not None:
-    #     tags.update({'school:nb_teachers_2012': nb_teachers})
+    if nb_teachers is not None:
+        tags.update({'capacity:teachers': nb_teachers})
 
     data = {
         'tags': getTags(**tags),
