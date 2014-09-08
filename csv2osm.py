@@ -8,6 +8,7 @@ from __future__ import (unicode_literals, absolute_import,
                         division, print_function)
 import sys
 import os
+import re
 import datetime
 
 import unicodecsv as csv
@@ -44,6 +45,203 @@ def yesno(cond):
 
 def clean(s):
     return s.strip().replace('"', "'").replace('&uml;', 'è')
+
+
+def cleanName(s):
+    s = clean(s)
+
+    def _cycle2(s):
+        marker = "[2ème C]"
+        patts = ["SECOND CYCLE",
+                 "SECOND/ CYCLE",
+                 "SECOND /CYCLE",
+                 "SECOND-CYCLE",
+                 "Second Cycle",
+                 "DEUXIEME CYCLE",
+                 "SEOND CYCLE",
+                 "SEGOND CYCLE",
+                 "2EM CYCLE",
+                 "2è CYCLE",
+                 "2 ème CYCLE",
+                 "2EME  CYCLE",
+                 "2ème Cycle",
+                 "2ème CYCLE",
+                 "2 EME CYCLE",
+                 "2è CYCEL",
+                 "2e Cycle",
+                 "2 CYCLE",
+                 "2EM Cycle",
+                 "2E CYCLE",
+                 "2EME CYCLE",
+                 "2 Cycle",
+                 "2ème cycle",
+                 "2éme CYCLE",
+                 "2ème  CYCLE",
+                 "2 ème Cycle",
+                 "2 ème cycle",
+                 "2è cYCLE",
+                 "2è   CYCLE",
+                 "2e cycle",
+                 "2èmr CYCLE",
+                 "2èmé Cycle",
+                 "2èME CYCLE",
+                 "2 è CYCLE",
+                 "2em Cycle",
+                 "2 è CYCLE",
+                 "2eme cycle",
+                 "2ième cycle",
+                 "2è cycle",
+                 "2CYCLE",
+                 "2éme C.",
+                 "2ème  C",
+                 "2eme C",
+                 "2EME C",
+                 "2ème C",
+                 "2ème c",
+                 "[[2ème C]]",
+                 "2èmeC",
+                 "2 ème",
+                 "2e SC",
+                 "2E c",
+                 "2 è c",
+                 "2 e C",
+                 "2 E C",
+                 "2è SC",
+                 "2E C",
+                 "2e  C",
+                 "2e C",
+                 "2è C",
+                 "2é C",
+                 "2° C",
+                 "2e C",
+                 "2E C",
+                 "2 è C",
+                 "2 C",
+                 "2°C",
+                 "2èC",
+                 "2eC",
+                 "2Èc",
+                 "2EC",
+                 "2E",
+                 "2C",
+                 "2c",
+                 "2é",
+                 ]
+        for index in range(0, len(patts)):
+            patt = patts[index]
+            if marker in s:
+                return s
+            s = s.replace(patt, marker)
+        return s
+
+    def _cycle1(s):
+        marker = "[1er C]"
+        patts = ["PREMIER CYCLE",
+                 "PREMIER CYCLE",
+                 "I ER CYCLE",
+                 "I er   CYCLE",
+                 "[1er C]cycle",
+                 "Ier Cycle",
+                 "Ier  CYCLE",
+                 "1er CYCLE",
+                 "1er CYCLE",
+                 "1ER CYCLE",
+                 "1er cycle",
+                 "1èr CYCLE",
+                 "1ERE CYCLE",
+                 "1 e CYCLE",
+                 "1 ER CYCLE",
+                 "1 er cycle",
+                 "1° CYCLE",
+                 "1e CYCLE",
+                 "1E CYLCE",
+                 "1ér cycle",
+                 "1e CYCLE",
+                 "1° CYCLE",
+                 "1ER  CYCLE",
+                 "1 CYCLE",
+                 "1r Cycle",
+                 "1ercycle",
+                 "1ère cycle /",
+                 "1cycle/",
+                 "1Cycle",
+                 "1 cycle",
+                 "(1 er C)",
+                 "1 er C",
+                 "1er C",
+                 "1ER C",
+                 "1erC.",
+                 "1erC",
+                 "1ER C",
+                 "1e C",
+                 "1° C",
+                 "1°C",
+                 "1 C",
+                 "1eC",
+                 "1èC",
+                 "1er",
+                 "1C",
+                 "1°",
+                 ]
+        for index in range(0, len(patts)):
+            patt = patts[index]
+            if marker in s:
+                return s
+            s = s.replace(patt, marker)
+        return s
+
+    def _franco(s):
+        return s.replace("FRANCO ARABE", "franco-arabe")
+
+    def _ecole(s):
+        return s.replace("ECOLE PRIVEE", "École privée") \
+                .replace("Ecole privée", "École privée") \
+                .replace("ECOLE DE BASE PRIVEE", "École de base privée") \
+                .replace("ECOLE PRIVE", "École privée") \
+                .replace("ECOL FOND. PRIVEE", "École fondamentale privée") \
+                .replace("Ecole", "École") \
+                .replace("ECOLES", "École") \
+                .replace("ECOLE", "École") \
+                .replace("COMMUNAUTAIRE", "communautaire") \
+                .replace("COOPERATIVE", "coopérative") \
+                .replace("PUBLIQUE", "publique") \
+                .replace("CATHOLIQUE", "catholique") \
+                .replace("FRANCO-ARABE", "franco-arabe") \
+                .replace("FONDAMENTALE DE", "fondamentale de") \
+                .replace("FONDAMENTALE", "fondamentale") \
+                .replace("FONDAMENTAL", "fondamentale") \
+                .replace("FOND ", "fondamentale ") \
+                .replace("MOBILE", "mobile") \
+                .replace("DES SOURDS-MUETS DE", "des sourds-muets de") \
+                .replace("SPECIALE", "spéciale") \
+                .replace(" DE ", " de ") \
+                .replace("PRIVEE", "École privée") \
+                .replace("PRIVE", "École privée")
+
+    def _special(s):
+        patts = [
+            (" (YOROSSO[2ème C])", ""),
+        ]
+        for index in range(0, len(patts)):
+            patt = patts[index]
+            s = s.replace(patt[0], patt[1])
+        return s
+
+    def _spaces(s):
+        return re.sub(r'\s+', " ", s).replace("( ", "(").replace(" )", ")")
+
+    def _cap(s):
+        return s
+
+    s = _cycle1(s)
+    s = _cycle2(s)
+    s = _special(s)
+    s = _franco(s)
+    s = _spaces(s)
+    s = _ecole(s)
+    s = _cap(s)
+
+    return s
 
 
 def getNode(entry, lnum):
@@ -84,7 +282,7 @@ def getNode(entry, lnum):
 
     tags = {
         'amenity': 'school',
-        'name': clean(entry.get('NOM_ETABLISSEMENT')),
+        'name': cleanName(entry.get('NOM_ETABLISSEMENT')),
         'operator:type': statuses.get(entry.get('STATUT')),
         'source': "UNICEF",
 
@@ -92,8 +290,10 @@ def getNode(entry, lnum):
         'school:ML:academie': entry.get('AE'),
         'school:ML:cap': entry.get('CAP'),
 
-        'school:first_cycle': yesno(cycle == 1),
-        'school:second_cycle': yesno(cycle == 2),
+        'isced:level': 1 if cycle == 1 else '2,3',
+
+        # 'school:first_cycle': yesno(cycle == 1),
+        # 'school:second_cycle': yesno(cycle == 2),
 
         # Students
         # 'school:nb_schoolboys_2012': int(entry.get('GARCONS')),
@@ -128,6 +328,8 @@ def getNode(entry, lnum):
 
     if has_drinkable_water:
         tags.update({'drinking_water:type': water_point})
+        tags.update({'drinking_water:seasonal':
+                     yesno(water_point == 'exhaustible_well')})
 
     if nb_teachers is not None:
         tags.update({'capacity:teachers': nb_teachers})
@@ -204,7 +406,7 @@ def main(filename):
         if ac not in academies.keys():
             academies[ac] = []
 
-        print(entry.get('NOM_ETABLISSEMENT'))
+        print(cleanName(entry.get('NOM_ETABLISSEMENT')))
 
         school_node = getNode(entry, csv_reader.line_num)
         school_latlon = (float(entry.get('Y')), float(entry.get('X')))
